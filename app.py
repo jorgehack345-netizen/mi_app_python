@@ -13,8 +13,8 @@ DATE_FMT_SHOW = "%d/%m/%Y"   # Para mostrar al usuario (día/mes/año)
 DATE_FMT_STORE = "%Y-%m-%d"  # Para guardar en JSON (ISO simple)
 
 DEFAULT_CONFIG = {
-    "precio_semanal": 120.0,   # cámbialo en el menú [7]
-    "precio_mensual": 450.0,   # cámbialo en el menú [7]
+    "precio_semanal": 280.0,   # cámbialo en el menú [7]
+    "precio_mensual": 600.0,   # cámbialo en el menú [7]
     "dias_proximos": 7         # horizonte para "próximos vencimientos"
 }
 
